@@ -2,6 +2,7 @@
 first repo... bla bla
 
 commit change 
-What's the Frequency, Kenneth?
 
-one more line 
+6 the lucky number
+
+What's the Frequency, Kenneth?
